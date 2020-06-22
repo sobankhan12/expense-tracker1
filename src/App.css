@@ -112,7 +112,8 @@ input[type='number'] {
 }
 
 .list li {
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-color: cornsilk;
     box-shadow: var(--box-shadow);
     color: #333;
     display: flex;
